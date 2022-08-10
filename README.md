@@ -8,7 +8,7 @@ The data and code in this replication package constructs the data transformation
 
 ## Recommended Citation
 
-Luduvice, André Victor D., and Cornelius Johnson. 2022. "Means-Tested Transfers, Asset Limits, and Universal Basic Income." Economic Commentary, no. 2022-09 (August). https://doi.org/10.26509/frbc-ec-202210.
+Luduvice, André Victor D., and Cornelius Johnson. 2022. "Means-Tested Transfers, Asset Limits, and Universal Basic Income." Economic Commentary, no. 2022-10 (August). https://doi.org/10.26509/frbc-ec-202210.
 
 
 ## Contents
