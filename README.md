@@ -4,7 +4,7 @@
 
 This repository contains all code and data associated with the FRBC's Economic Commentary "Means-Tested Transfers, Asset Limits, and Universal Basic Income" by André Victor D. Luduvice and Cornelius Johnson.
 
-The data and code in this replication package constructs the data transformations and calculations from two data sources (U.S. Census SIPP, BLS CPI-U) using R. The Master script and Transformation script run the replication package and implement all data transformation and calculations required for the analysis. The Figures and  Appendix sripts generate the figures and tables. The Table1_Documentation folder includes documentation for Table 1 of the Commentary, including PDFs for static access to resources accessed from URLs.
+The data and code in this replication package constructs the data transformations and calculations from two data sources (U.S. Census SIPP, BLS CPI-U) using R. The Master script and Transformation script run the replication package and implement all data transformation and calculations required for the analysis. The Figures and  Appendix scripts generate the figures and tables. The Table1_Documentation folder includes documentation for Table 1 of the Commentary, including PDFs for static access to resources accessed from URLs.
 
 ## Recommended Citation
 
