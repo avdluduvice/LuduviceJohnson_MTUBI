@@ -38,7 +38,7 @@ Luduvice, André Victor D., and Cornelius Johnson. 2022. "Means-Tested Transfers
 
 All data are publicly available.
 
-This paper uses data from the U.S. Census Bureau, Survey of Income and Program Participation (SIPP) 2018. The raw data is from the 2018 the first wave of SIPP. Data can be freely downloaded from https://www2.census.gov/programs-surveys/sipp/data/datasets/2018/pu2018_csv.zip. Note: the SIPP data 
+This paper uses data from the U.S. Census Bureau, Survey of Income and Program Participation (SIPP) 2018. The raw data is from the first wave of the SIPP 2018. Data can be freely downloaded from https://www2.census.gov/programs-surveys/sipp/data/datasets/2018/pu2018_csv.zip. Note: the SIPP data 
 file is not provided. Save the file in the directory as /Data/pu2018.csv.
 
 This paper uses raw data from the U.S. Bureau of Labor Statistics. The raw data is the seasonally adjusted CPI-U index, series ID: CUSR0000SA0. Data can be freely downloaded from https://data.bls.gov/timeseries/CUSR0000SA0&output. Change output options to include years 1947 - 2021, and the "Original Data Value" view of the data. Note: the raw CPI-U index data file is provided in the Data folder as BLS_CPI-U_1947_2021.csv and was extracted on Sep 24, 2021. 
